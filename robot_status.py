@@ -1,5 +1,5 @@
 robot_name = "Duckiebot"
-battery_level = 20
+battery_level = 80
 speed = 3.0
 
 print("Robot Name:",robot_name)
